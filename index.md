@@ -5,5 +5,5 @@ title: Implantacion de Aplicaciones Web
 tagline: juanluramriez.github.io
 ---
    
-   * [Curriculum](/curriculum)
+   * [Curriculum](curriculum/)
    <hr/>

@@ -11,7 +11,8 @@ tagline: juanluramriez.github.io/
 * Estudiante de ASIR en el IES Gonzalo Nazareno
 
 # Formación Técnica
-
+* Curso en gestion de Windows
+* Curso en utilizacion de Word
 
 # Experiencia Laboral
 * Delineante en un estudio de arquitectura (2013-2016)
@@ -24,7 +25,11 @@ tagline: juanluramriez.github.io/
 * Eso, Bachillerato de Ciencias, Curso de desarroyo en BIM.
 
 # Información adicional
-	- Interes personales
-	- Interes laborales
-	- Valores personales
-	- Carné de conducir y disponibilidad para trabajar fuera de tu provincia.
+	- Interes personales:
+		Me gusta el tenis, soy un gran aficionado a todo lo nuevo relacionado con la informatica
+	- Interes laborales:
+		Me gustaria trabajar en una empresa en la cual pueda crecer, a nivel nacional
+	- Valores personales:
+		
+	- Carné de conducir y disponibilidad para trabajar fuera de tu provincia:
+		Tengo carne de conducir y disponibilidad para trabajar fuera de españa si es necesario

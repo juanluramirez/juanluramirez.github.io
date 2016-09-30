@@ -36,4 +36,4 @@ tagline: juanluramriez.github.io/
 		Tengo carne de conducir y disponibilidad para trabajar fuera de españa si es necesario
 
 # Redes Sociales
-* [Instagram](https://www.instagram.com/juanlu_ramirez)
+* [Instagram](https://www.instagram.com/juanlu_ramirez "Juanlu_ramirez")

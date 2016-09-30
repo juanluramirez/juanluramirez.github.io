@@ -11,9 +11,8 @@ tagline: juanluramriez.github.io/
 
 * Estudiante de ASIR en el IES Gonzalo Nazareno
 
-Formación Técnica
-[- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo ]
-[- Administrar/Gestionar/Programación..... – Nivel Experto,Avanzado, Medio, Bajo ]
+# Formación Técnica
+
 
 # Experiencia Laboral
 * Delineante en un estudio de arquitectura (2013-2016)

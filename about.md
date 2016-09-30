@@ -1,13 +1,12 @@
 ---
-layout: index
-
+layout: Principal
 title: Implantacion de Aplicaciones Web 
 tagline: juanluramriez.github.io/
 ---
 
 ![imagen](/images/linux.jpg)
 
-#Juan Luis Ramirez Vaquero
+# Juan Luis Ramirez Vaquero
 
 * Estudiante de ASIR en el IES Gonzalo Nazareno
 

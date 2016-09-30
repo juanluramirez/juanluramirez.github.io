@@ -10,7 +10,12 @@ tagline: juanluramriez.github.io/
 
 * Estudiante de ASIR en el IES Gonzalo Nazareno
 
-| Columna 1     | Columna 2     |
-| ------------- | ------------- |
-| Celda 1, col1 | Celda 2, col2 |
-| Celda 3, col1 | Celda 3, col2 |
+| LUNES         | MARTES        | MIERCOLES     | JUEVES        | VIERNES        |
+| ------------- | ------------- | ------------- | ------------- | -------------  | 
+| HLC           | SERVICIO      | EMPRESA       | SERVICIO      | ASO            |
+| ASO           | SERVICIO      | EMPRESA       | SERVICIO      | ASO            |
+| ASO           | HLC           | ASO           | SAD           | SSGB           |
+| RECREO        | RECREO        | RECREO        | RECREO        | RECREO         |
+| IAW           | SAD           | ASO           | SAD           | HLC            |
+| IAW           | SSGB          | SERVICIO      | EMPRESA       | IAW            |
+| SAD           | SSGB          | SERVICIO      | EMPRESA       | IAW            |

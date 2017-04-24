@@ -4,7 +4,7 @@ title: Implantacion de Aplicaciones Web
 tagline: juanluramriez.github.io/
 ---
 
-![imagen](/images/linux.jpg)
+![imagen](/images/Tux.png)
 
 # Juan Luis Ramirez Vaquero
 
